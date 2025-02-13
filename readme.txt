@@ -1,1 +1,1 @@
-ECHO is on.
+Ez a readme online lett szerkeszteve
